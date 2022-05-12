@@ -1,0 +1,22 @@
+==INSTALLATION==
+1. Run the MySQL installer
+2. Watch the first part of the CRUD form demo video for a guide in doing the installation: https://www.youtube.com/watch?v=hAnONnqLZQY
+================
+
+==DATABASE IMPORT==
+3. Type on your start search bar for 'MySQL Workbench'
+4. Run MySQL Workbench
+5. On the top of the program, click the 'database' tab
+6. Click 'connect to database'
+7. Click 'Ok'
+8. Enter your root password and click 'Ok'
+9. On the top of the program, click the 'Server' tab
+10. Click 'data import'
+11. Select the 'Import from Self-Contained File' radio button, and set the path as the SQL file located in this directory
+12. Click the 'Import Progress' tab near the top
+13. Click the 'Start Import' button at the lower right
+14. Success!, you can now exit the Workbench
+===================
+
+==Finish==
+15. Double-click the 'run.bat' and you can now use the program
